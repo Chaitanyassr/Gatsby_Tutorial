@@ -1,2 +1,2 @@
 # Gatsby_Tutorial
-Gatsby_Tutorial
+Gatsby and react tutorial
